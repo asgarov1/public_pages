@@ -1,8 +1,8 @@
-# Privacy Policy
+# Jlingo German B1 Privacy Policy
 
-**App:** Jlingo German B1
-**Effective date:** 2026-04-06
-**Developer:** Javid Asgarov
+- **App:** Jlingo German B1
+- **Effective date:** 2026-04-06
+- **Developer:** Javid Asgarov
 
 ---
 
